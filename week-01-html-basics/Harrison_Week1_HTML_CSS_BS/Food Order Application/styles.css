@@ -22,22 +22,6 @@ body {
     background-color: #f8f8ff;
 }
 
-input {
-    max-width: 200px;
-}
-
-textarea {
-    min-width: 450px;
-}
-
-#form_container {
-    min-width: 500px;
-}
-
-#order_item {
-    min-width: 450px;
-}
-
 /* Summary Section */ 
 table, td, tr, th {
     border: 1px solid #000;
